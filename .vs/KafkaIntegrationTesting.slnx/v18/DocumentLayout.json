@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE21CA3-4CFD-B0FE-9B88-73A476C06FF7}|Notification.Consumer\\Notification.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\notification.consumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE21CA3-4CFD-B0FE-9B88-73A476C06FF7}|Notification.Consumer\\Notification.Consumer.csproj|solutionrelative:notification.consumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE21CA3-4CFD-B0FE-9B88-73A476C06FF7}|Notification.Consumer\\Notification.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\notification.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE21CA3-4CFD-B0FE-9B88-73A476C06FF7}|Notification.Consumer\\Notification.Consumer.csproj|solutionrelative:notification.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE21CA3-4CFD-B0FE-9B88-73A476C06FF7}|Notification.Consumer\\Notification.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\notification.consumer\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE21CA3-4CFD-B0FE-9B88-73A476C06FF7}|Notification.Consumer\\Notification.Consumer.csproj|solutionrelative:notification.consumer\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E70EC-2490-75A4-D38C-DAEAD23AB8E8}|Billing.Consumer\\Billing.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\billing.consumer\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E70EC-2490-75A4-D38C-DAEAD23AB8E8}|Billing.Consumer\\Billing.Consumer.csproj|solutionrelative:billing.consumer\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075C78B-0689-7124-2C87-0D5CFC6ECDEE}|Inventory.Consumer\\Inventory.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\inventory.consumer\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075C78B-0689-7124-2C87-0D5CFC6ECDEE}|Inventory.Consumer\\Inventory.Consumer.csproj|solutionrelative:inventory.consumer\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E70EC-2490-75A4-D38C-DAEAD23AB8E8}|Billing.Consumer\\Billing.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\billing.consumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E70EC-2490-75A4-D38C-DAEAD23AB8E8}|Billing.Consumer\\Billing.Consumer.csproj|solutionrelative:billing.consumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075C78B-0689-7124-2C87-0D5CFC6ECDEE}|Inventory.Consumer\\Inventory.Consumer.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\inventory.consumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075C78B-0689-7124-2C87-0D5CFC6ECDEE}|Inventory.Consumer\\Inventory.Consumer.csproj|solutionrelative:inventory.consumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB36138-4173-FEDA-D601-7755DA2C2484}|Orders.Api\\Orders.Api.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\orders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB36138-4173-FEDA-D601-7755DA2C2484}|Orders.Api\\Orders.Api.csproj|solutionrelative:orders.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB36138-4173-FEDA-D601-7755DA2C2484}|Orders.Api\\Orders.Api.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\orders.api\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB36138-4173-FEDA-D601-7755DA2C2484}|Orders.Api\\Orders.Api.csproj|solutionrelative:orders.api\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB36138-4173-FEDA-D601-7755DA2C2484}|Orders.Api\\Orders.Api.csproj|c:\\users\\asus\\documents\\universidad\\octavo semestre\\aseguramiento de la calidad\\kafka-integration-testing\\orders.api\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB36138-4173-FEDA-D601-7755DA2C2484}|Orders.Api\\Orders.Api.csproj|solutionrelative:orders.api\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Notification.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Notification.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Notification.Consumer\\Program.cs",
+              "RelativeToolTip": "Notification.Consumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T00:59:37.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Notification.Consumer\\Worker.cs",
+              "RelativeDocumentMoniker": "Notification.Consumer\\Worker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Notification.Consumer\\Worker.cs",
+              "RelativeToolTip": "Notification.Consumer\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:38:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Billing.Consumer\\Models\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Billing.Consumer\\Models\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Billing.Consumer\\Models\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Billing.Consumer\\Models\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:35:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Notification.Consumer\\Models\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Notification.Consumer\\Models\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Notification.Consumer\\Models\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Notification.Consumer\\Models\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:37:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Inventory.Consumer\\Models\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Inventory.Consumer\\Models\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Inventory.Consumer\\Models\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Inventory.Consumer\\Models\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:32:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Billing.Consumer\\Worker.cs",
+              "RelativeDocumentMoniker": "Billing.Consumer\\Worker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Billing.Consumer\\Worker.cs",
+              "RelativeToolTip": "Billing.Consumer\\Worker.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:35:36.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Inventory.Consumer\\Worker.cs",
+              "RelativeDocumentMoniker": "Inventory.Consumer\\Worker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Inventory.Consumer\\Worker.cs",
+              "RelativeToolTip": "Inventory.Consumer\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:32:35.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Orders.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Orders.Api\\Program.cs",
+              "RelativeToolTip": "Orders.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:15:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Orders.Api\\Models\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Orders.Api\\Models\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Orders.Api\\Models\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Orders.Api\\Models\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:12:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Orders.Api\\Models\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "Orders.Api\\Models\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Universidad\\Octavo semestre\\Aseguramiento de la calidad\\Kafka-Integration-Testing\\Orders.Api\\Models\\CreateOrderRequest.cs",
+              "RelativeToolTip": "Orders.Api\\Models\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:10:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

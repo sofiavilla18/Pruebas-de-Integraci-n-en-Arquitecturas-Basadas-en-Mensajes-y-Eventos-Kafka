@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Billing.Consumer/Billing.Consumer.csproj" />
+  <Project Path="Inventory.Consumer/Inventory.Consumer.csproj" />
+  <Project Path="Notification.Consumer/Notification.Consumer.csproj" />
+  <Project Path="Orders.Api/Orders.Api.csproj" />
+</Solution>
